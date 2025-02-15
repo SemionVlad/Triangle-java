@@ -66,6 +66,7 @@ The program will output one of these messages:
 - Single-use program (needs to be rerun for multiple triangles)
 - Integer-only side lengths
 
+*Note: This implementation is designed for educational purposes and demonstrates object-oriented programming concepts in Java.*
 ## Implementation Notes
 - Uses Scanner class for input handling
 - Closes Scanner properly to prevent resource leaks
